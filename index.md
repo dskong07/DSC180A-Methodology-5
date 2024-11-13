@@ -2,11 +2,11 @@ Name: Daniel Kong\
 Email: dskong@ucsd.edu\
 Section: B15 - Powering Progress: Crafting Reliable EV Infrastructure in San Diego\
 Mentor: Phi Nguyen\
-\
+
 ### Questions:
 \
     __- What is the most interesting topic covered in your domain this quarter?__\
-    The topic I found the most interesting are all the nuances related to EV charging infrastructure, such as how the grid supplies power, how government regulations and legislation affects the construction and expansion of infrastructure, as well as the geographical investigation of infrastructure locations in regards to demographics.\ 
+    The topic I found the most interesting are all the nuances related to EV charging infrastructure, such as how the grid supplies power, how government regulations and legislation affects the construction and expansion of infrastructure, as well as the geographical investigation of infrastructure locations in regards to demographics.\
 \
 \
     __- Describe a potential investigation you would like to pursue for your Quarter 2 Project.__\
