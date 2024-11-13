@@ -1,8 +1,7 @@
 Name: Daniel Kong\
 Email: dskong@ucsd.edu\
 Section: B15 - Powering Progress: Crafting Reliable EV Infrastructure in San Diego\
-Mentor: Phi Nguyen\
-
+Mentor: Phi Nguyen
 ### Questions:
 \
     __- What is the most interesting topic covered in your domain this quarter?__\
